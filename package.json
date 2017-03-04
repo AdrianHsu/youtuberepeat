@@ -1,0 +1,37 @@
+{
+  "name": "youtuberepeat",
+  "version": "1.0.0",
+  "description": "an easy-to-use website aimed for repeating videos on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "youtuberepeat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianHsu/youtuberepeat.git"
+  },
+  "keywords": [
+    "youtube",
+    "repeat",
+    "rpt",
+    "loop",
+    "looper",
+    "repeater",
+    "utube",
+    "youtube-repeat",
+    "重複",
+    "重播"
+  ],
+  "author": "AdrianHsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianHsu/youtuberepeat/issues"
+  },
+  "dependencies": {
+          "express": "4.15.0"
+  },
+  "engines": {
+          "node": "v7.5.0"
+  },
+  "homepage": "https://github.com/AdrianHsu/youtuberepeat#readme"
+}
